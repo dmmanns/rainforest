@@ -1,0 +1,20 @@
+#second {
+	font-size: 32;
+	color: green;
+
+p {
+color: red; 
+}
+
+.highlight {
+color: while;
+background-color: yellow;
+}
+
+a{
+	color: orange;
+}
+
+#second a {
+	font-size: 8;
+}
