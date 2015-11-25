@@ -3,6 +3,7 @@ class ProductsController < ApplicationController
   		@products = Product.all
   end
 
+#/products/2
   def show
   		@product = Product.find(params[:id])
   	if current_user
